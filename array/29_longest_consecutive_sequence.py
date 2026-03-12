@@ -14,6 +14,6 @@ def longest_consecutive_sequence(arr):
     return longest
 
 if __name__ == '__main__':
-    arr = [100, 4, 200, 1, 3, 2]
+    arr = [100,  200, 1, 3, 2]
     print("Array:", arr)
     print("Longest Consecutive Sequence Length:", longest_consecutive_sequence(arr))

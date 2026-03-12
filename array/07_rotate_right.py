@@ -8,6 +8,6 @@ def rotate_right(arr, k):
 
 if __name__ == '__main__':
     arr = [1, 2, 3, 4, 5]
-    k = 2
+    k = 3
     print("Original Array:", arr)
     print("After Rotating Right by", k, "positions:", rotate_right(arr, k))

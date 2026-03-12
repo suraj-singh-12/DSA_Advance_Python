@@ -15,6 +15,6 @@ if __name__ == '__main__':
     arr = [3, 4, -1, 1]
     print("Array:", arr)
     print("First Missing Positive:", first_missing_positive(arr))
-    arr2 = [1, 2, 0]
+    arr2 = [1, 2]
     print("Array:", arr2)
     print("First Missing Positive:", first_missing_positive(arr2))

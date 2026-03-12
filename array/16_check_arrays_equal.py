@@ -11,7 +11,7 @@ def arrays_are_equal(arr1, arr2):
 if __name__ == '__main__':
     arr1 = [1, 2, 3, 4, 5]
     arr2 = [5, 3, 1, 4, 2]
-    arr3 = [1, 2, 3, 4, 6]
+    arr3 = [1, 2, 3, 4, 5]
     print("Array 1:", arr1)
     print("Array 2:", arr2)
     print("Array 1 == Array 2:", arrays_are_equal(arr1, arr2))
